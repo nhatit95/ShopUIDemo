@@ -1084,7 +1084,7 @@
 .home-product__item-sale::after {
     content: '';
     position: absolute;
-    top: 34px;
+    top: 33px;
     right: 0px;
     border-width: 0 19.5px 6px;
     border-style: solid;
